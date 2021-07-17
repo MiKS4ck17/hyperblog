@@ -4,12 +4,7 @@ Soy Poblano y tengo aguante
 
 Master 1
 
-<<<<<<< HEAD
 Master 2
-=======
 Experimento 1
->>>>>>> Exp 1
-
-Experimento 2
 
 Hoy hablaremos de su magnifica vida y obra maestra UwU
