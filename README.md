@@ -10,5 +10,6 @@ Un blog increíble para el [Curso de Git y Github](https://platzi.com/clases/git
 * Trucos muy locos del profesor
 * Creado por un Oribeliever
 * Larcamón va a ser campeón con el Puebla
+* Letargico
 
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseañado para el ejemplo. **NO TE LO TOMES EN SERIO** y mejor [ve al curso](https://platzi.com/clases/git-github/).
